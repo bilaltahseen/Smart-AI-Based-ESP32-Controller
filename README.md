@@ -58,7 +58,7 @@ This Smart AI-Based ESP32 Controller project integrates IoT capabilities with AI
 
 1. Clone this repository:
    ```
-   git clone https://github.com/bilaltahseen/smart-ai-esp32-controller.git
+   git clone https://github.com/bilaltahseen/Smart-AI-Based-ESP32-Controller.git
    cd smart-ai-esp32-controller
    ```
 
