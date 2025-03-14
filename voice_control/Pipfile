@@ -1,0 +1,19 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+speechrecognition = "*"
+pyaudio = "*"
+langchain = "*"
+langchain-google-genai = "*"
+google-generativeai = "*"
+pydantic = "*"
+paho-mqtt = "*"
+python-dotenv = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
